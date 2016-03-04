@@ -1,7 +1,7 @@
 ## The two functions below can compute and chaches the Inverse of a Matrix.
 
 
-## This function caches the inverse of special "matrix"
+## This function caches the inverse of the special "matrix"
 
 
 makeCacheMatrix <- function(x = matrix()) {
